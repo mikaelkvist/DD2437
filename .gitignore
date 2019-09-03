@@ -1,0 +1,10 @@
+#Ignore file named README.txt
+#README.txt
+
+#Ignore forlder named 'output'
+#output/
+
+Books/
+
+#Ignore all .java files
+#*.java
